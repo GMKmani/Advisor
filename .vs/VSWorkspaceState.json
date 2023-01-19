@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\crop-recommendation-and-plant-disease-detection",
+    "\\crop-recommendation-and-plant-disease-detection\\models",
+    "\\crop-recommendation-and-plant-disease-detection\\models\\cnn",
+    "\\crop-recommendation-and-plant-disease-detection\\models\\recommender-models",
+    "\\crop-recommendation-and-plant-disease-detection\\webapp"
+  ],
+  "SelectedNode": "\\crop-recommendation-and-plant-disease-detection\\models\\recommender-sys.ipynb",
+  "PreviewInSolutionExplorer": false
+}
